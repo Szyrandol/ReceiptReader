@@ -1,0 +1,1 @@
+A proof of concept for my thesis project, many improvements to be made, but thats just a test, I'm going to port it over to Maui for it to be a mobile app, improve it there, implement some type of database of users and make it conform to the MVVM pattern. Right now its setup in a way that makes it communicate with EasyOcrFlaskApi (locally) i put up in my projects.
